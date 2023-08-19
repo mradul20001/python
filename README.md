@@ -1,2 +1,1 @@
-# python
-python project
+print("hello world")
